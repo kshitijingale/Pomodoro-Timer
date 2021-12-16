@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(184, 131, 235);
+  font-family: "Baloo 2", cursive;
+}
+
+h1 {
+  color: rgb(65, 20, 65);
+  font-weight: normal;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 10px;
+}
+
+#timeOption {
+  outline: none;
+  border: none;
+  width: 300px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#saveBtn {
+  display: block;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  color: rgb(65, 20, 65);
+}
